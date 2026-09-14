@@ -24,8 +24,9 @@ TerraLink is an off-grid field terminal and communication baseboard designed to 
 - [x] Milestone 1: Schematic design, routing, and DRC validation (Complete)
 - [ ] Milestone 2: Order fabrication through Hack Club grant
 - [ ] Milestone 3: ESP32 packet framing & LoRa SPI bridge firmware
-- [ ] Milestone 4: CAD enclosure modeling and assembly
-- [ ] Milestone 5: Pi terminal UI & offline data testing
+- [ ] Milestone 4: CAD Enclosure integration with 5"/7" DSI Capacitive Touch Display & Field UI
+- [ ] Milestone 5: CAD enclosure modeling and assembly
+- [ ] Milestone 6: Pi terminal UI & offline data testing
 ## Creator
 
 - Aryan Pandey (@Aryan on Hack Club Slack)
