@@ -27,6 +27,9 @@ TerraLink is an off-grid field terminal and communication baseboard designed to 
 - [ ] Milestone 4: CAD Enclosure integration with 5"/7" DSI Capacitive Touch Display & Field UI
 - [ ] Milestone 5: CAD enclosure modeling and assembly
 - [ ] Milestone 6: Pi terminal UI & offline data testing
+
+## Bill of custom PCB
+![BOM](BOM.png).
 ## Creator
 
 - Aryan Pandey (@Aryan on Hack Club Slack)
