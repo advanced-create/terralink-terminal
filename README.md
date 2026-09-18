@@ -30,6 +30,17 @@ TerraLink is an off-grid field terminal and communication baseboard designed to 
 
 ## Bill of custom PCB
 ![BOM](BOM.png).
+
+## 🧾 Bill of Materials (BOM)
+
+| Item | Component / Part | Qty | Approx Price (USD) | Source / Vendor |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | Custom TerraLink Carrier PCB (5 pcs) | 1 | $15.00 (with shipping) | [JLCPCB](https://jlcpcb.com) |
+| 2 | Raspberry Pi 5 (4GB) | 1 | $60.00 | [Robu.in](https://robu.in) |
+| 3 | SX1262 LoRa SPI Transceiver Module | 1 | $12.00 | [Robu.in](https://robu.in) |
+| 4 | 2.54mm Female/Male Headers & 5V Terminal Blocks | 1 set | $5.00 | [Robu.in](https://robu.in) |
+| 5 | M2.5 Standoffs, Hardware Fasteners & Enclosure Mat. | 1 set | $10.00 | [Amazon.in](https://amazon.in) |
+| **Total** | | | **~$102.00** | |
 ## Creator
 
 - Aryan Pandey (@Aryan on Hack Club Slack)
