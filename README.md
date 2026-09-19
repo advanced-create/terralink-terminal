@@ -34,14 +34,15 @@ TerraLink is an off-grid field terminal and communication baseboard designed to 
 ## 🧾 Bill of Materials (BOM)
 ![BOM](BOM.jpg).
 
-| Item | Component / Part | Qty | Approx Price (USD) | Source / Vendor |
-| :--- | :--- | :--- | :--- | :--- |
-| 1 | Custom TerraLink Carrier PCB (5 pcs) | 1 | $15.00 (with shipping) | [JLCPCB](https://jlcpcb.com) |
-| 2 | Raspberry Pi 5 (4GB) | 1 | $60.00 | [Robu.in](https://robu.in) |
-| 3 | SX1262 LoRa SPI Transceiver Module | 1 | $12.00 | [Robu.in](https://robu.in) |
-| 4 | 2.54mm Female/Male Headers & 5V Terminal Blocks | 1 set | $5.00 | [Robu.in](https://robu.in) |
-| 5 | M2.5 Standoffs, Hardware Fasteners & Enclosure Mat. | 1 set | $10.00 | [Amazon.in](https://amazon.in) |
-| **Total** | | | **~$102.00** | |
+ItemComponent / PartQtyPrice (INR)Price (USD)Source / Vendor
+1Custom TerraLink Carrier PCB Fabrication + Shipping5 pcs₹1,270.00$15.00JLCPCB
+2Raspberry Pi 5 Model (8GB RAM)1 unit₹19,999.00$236.67Robu.in
+3Waveshare SX1262 LoRa HAT for Raspberry Pi (868MHz)1 unit₹2,699.00$31.94Robu.in
+4ESP32-S3 DevKit (WROOM-1 N16R8 | 16MB Flash + 8MB PSRAM)1 unit₹839.00$9.93Robu.in
+520cm 40-Pin Dupont Cables (M-M, M-F, F-F Combo Pack)1 pack₹129.69$1.53Robu.in
+Total₹24,936.69~$295.00
+
+
 ## Creator
 
 - Aryan Pandey (@Aryan on Hack Club Slack)
