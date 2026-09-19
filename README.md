@@ -32,6 +32,7 @@ TerraLink is an off-grid field terminal and communication baseboard designed to 
 ![BOM](BOM.png).
 
 ## 🧾 Bill of Materials (BOM)
+![BOM](BOM.jpg).
 
 | Item | Component / Part | Qty | Approx Price (USD) | Source / Vendor |
 | :--- | :--- | :--- | :--- | :--- |
